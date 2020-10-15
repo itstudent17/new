@@ -56,7 +56,7 @@ _This text_ is italic
 
 <!-- Images -->
 
-![Markdown Logo](http://www.markdown-here.com/img/icon256.png "Markdown Logo Title")
+![Markdown Logo](https://www.markdown-here.com/img/icon256.png "Markdown Logo Title")
 
 ```bash
     npm install
